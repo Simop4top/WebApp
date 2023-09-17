@@ -1,6 +1,6 @@
 using System;
 
-namespace MyDotNetApp
+namespace WebApp
 {
     class Program
     {
